@@ -3,13 +3,13 @@
 <br>
 <img src = "https://github.com/WebberX45/Prodigy-Infotech-Data-Science-Task-3/blob/main/Task%203.jpeg">
 
-Welcome to my submission for the Data Science Internship at Prodigy Infotech. This repository contains my Exploratory Data Analysis, Preprocessing, Model Training, and Visualization on the Bank Marketing Dataset, focusing on predicting whether a customer will subscribe to a term deposit using Python and common data-science libraries.
+Welcome to my submission for Task 3 of the Data Science Internship at Prodigy Infotech. This repository contains my Exploratory Data Analysis, Preprocessing, Model Training, and Visualization on the Bank Marketing Dataset, focusing on predicting whether a customer will subscribe to a term deposit using Python and common data-science libraries.
 
 
 ## Dataset
 
 The dataset used in this project is the Bank Marketing Dataset, available here:
-<a href="https://github.com/WebberX45/Prodigy-Infotech-Data-Science-Task-3/blob/main/bank-additional.csv">bank_marketing_dataset.csv</a>.
+<a href="https://github.com/WebberX45/Prodigy-Infotech-Data-Science-Task-3/blob/main/bank-additional.csv">bank_marketing_dataset.csv</a>.<br>
 It contains demographic, social, and campaign-related information about clients contacted during marketing campaigns conducted by a Portuguese banking institution. Key features include age, job, marital status, education, credit details, call duration, previous campaign outcomes, and the target variable deposit (yes/no).
 
 
@@ -40,9 +40,9 @@ Analyze the Bank Marketing dataset to:
 - Label encoding applied to all categorical variables
 - Decision Tree Classifier used to predict deposit subscription
 - Model evaluation using:
-  • Accuracy score
-  • Classification report
-  • Confusion matrix visualization
+   - Accuracy score
+   - Classification report
+   - Confusion matrix visualization
 
 
 ## Conclusion
